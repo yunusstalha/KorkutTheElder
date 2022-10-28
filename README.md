@@ -6,3 +6,10 @@ The game contains many elements from Turkic Mythologhy. The name comes from Dede
 
 ![1](https://user-images.githubusercontent.com/66975290/198657770-c1b8b5ba-d576-4e6b-9013-270735beab22.jpg)
 	_Figure 1 - Cyclop Hunt_
+
+# Gameplay
+The game is 2D Action Advanture game contains platform elemenets. Containing variaty of enemies the goal is the beat different bosses at the end of the every level.
+![6](https://user-images.githubusercontent.com/66975290/198661992-42f60edd-c142-4f60-8758-70b641de5246.jpg)
+	_Figure 2 - the Champion_
+![2](https://user-images.githubusercontent.om/66975290/198662103-b70920c5-6a6b-4552-a07a-854ae495e766.jpg)
+	_Figure 3 - Archer_
