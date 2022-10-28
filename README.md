@@ -11,5 +11,8 @@ The game contains many elements from Turkic Mythologhy. The name comes from Dede
 The game is 2D Action Advanture game contains platform elemenets. Containing variaty of enemies the goal is the beat different bosses at the end of the every level.
 ![6](https://user-images.githubusercontent.com/66975290/198661992-42f60edd-c142-4f60-8758-70b641de5246.jpg)
 	_Figure 2 - the Champion_
-![2](https://user-images.githubusercontent.om/66975290/198662103-b70920c5-6a6b-4552-a07a-854ae495e766.jpg)
+
+![2](https://user-images.githubusercontent.com/66975290/198662694-7c5f1fbd-d123-4c67-bfbe-70db2e0f8b36.jpg)
 	_Figure 3 - Archer_
+	
+Note : The development has stopped.
